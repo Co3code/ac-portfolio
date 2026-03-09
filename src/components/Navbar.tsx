@@ -59,10 +59,10 @@ export const Navbar = () => {
             animate={{ opacity: 1, scale: 1 }}
             className="flex items-center gap-4 ml-4 pl-4 border-l border-white/10"
           >
-            <a href="https://github.com" className="text-zinc-400 hover:text-white transition-colors">
+            <a href="" className="text-zinc-400 hover:text-white transition-colors">
               <Github size={18} />
             </a>
-            <a href="https://linkedin.com" className="text-zinc-400 hover:text-white transition-colors">
+            <a href="" className="text-zinc-400 hover:text-white transition-colors">
               <Linkedin size={18} />
             </a>
           </motion.div>
