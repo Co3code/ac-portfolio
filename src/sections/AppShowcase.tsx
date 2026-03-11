@@ -66,7 +66,7 @@ export const AppShowcase = () => {
                 {/* Phone Mockup Content */}
                 <div className="absolute top-0 left-1/2 -translate-x-1/2 w-1/3 h-6 bg-zinc-800 rounded-b-2xl z-20" />
                 <img
-                  src="/assets/bmiph.jpg"
+                  src="/assets/bmiph2.jpg"
                   alt="App Screenshot"
                   className="w-full h-full object-cover opacity-80"
                   referrerPolicy="no-referrer"
